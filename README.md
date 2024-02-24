@@ -1,6 +1,6 @@
 # Repositório da implementação do Método da Bissecção
 
-Método da Bissecção implementado em Python de, para um trabalho de implementação de Álgebra Linear para Computação, do curso superior de TADS.
+Método da Bissecção implementado em Python, para um trabalho de implementação de Álgebra Linear para Computação, do curso superior de TADS.
 
 Esse método é utilizado para encontrar raízes de funções de forma iterativa.
 
