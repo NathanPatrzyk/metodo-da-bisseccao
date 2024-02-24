@@ -26,6 +26,9 @@ class Funcao:
     def getD(self):
         return self.__d
 
+    def calcularValor(self, n):
+        return ((self.a)*(n**3))+((self.b)*(n**2))+((self.c)*(n))+(self.d)
+
     a = property(getA, setA)
     b = property(getB, setB)
     c = property(getC, setC)
